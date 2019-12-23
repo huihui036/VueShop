@@ -1,0 +1,27 @@
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 1200px;
+}
+.el-main[data-v-12beccd8] {
+  background-color: #e9eef3;
+  color: #333;
+  text-align: left;
+  line-height: 20px;
+}
+.tables {
+  margin-bottom: 5px;
+  background-color: #d3dce6;
+  height: 40px;
+}
+.el-breadcrumb {
+  line-height: 40px;
+  padding-left: 10px;
+}
+.ql-container {
+  min-height: 300px;
+}
